@@ -18,19 +18,19 @@ The project follows Medallion Architecture (Bronze, Silver, Gold layers) to ensu
 
 ### Part 1: Data Ingestion Pipeline
 What I Learned & Implemented
-✔ Set up Azure Data Factory for ETL processes.
-✔ Configured ADLS Gen2 for cloud storage.
-✔ Designed Medallion Architecture (Bronze, Silver, Gold).
-✔ Implemented data ingestion pipelines from multiple sources (HTTP, SQL).
-✔ Managed error handling & monitoring in pipelines.
+Set up Azure Data Factory for ETL processes.
+Configured ADLS Gen2 for cloud storage.
+Designed Medallion Architecture (Bronze, Silver, Gold).
+Implemented data ingestion pipelines from multiple sources (HTTP, SQL).
+Managed error handling & monitoring in pipelines.
 
 ### Part 2: Data Transformation & Visualization
 Advanced Implementations:
-✔ Set up Azure Databricks for large-scale data processing.
-✔ Integrated MongoDB for data enrichment.
-✔ Configured Azure Synapse Analytics for query optimization.
-✔ Built interactive dashboards using Power BI/Tableau.
-✔ Optimized data processing performance for scalability.
+Set up Azure Databricks for large-scale data processing.
+Integrated MongoDB for data enrichment.
+Configured Azure Synapse Analytics for query optimization.
+Built interactive dashboards using Power BI/Tableau.
+Optimized data processing performance for scalability.
 
 # Tech Stack
 
