@@ -63,7 +63,7 @@ Optimized BigQuery table partitioning schemas, reducing query costs by 45%.<br>
 Created interactive Power BI dashboards for executive teams, visualizing revenue trends and customer segmentation.<br>
 Exposed processed data via REST APIs (Azure Functions) for internal apps, eliminating manual CSV exports.<br>
 
-Key Achievements
+# Key Achievements
 Reduced pipeline runtime by 60% through Spark optimizations.<br>
 Cut cloud costs by 35% with partitioned storage and auto-scaling.<br>
 Enabled real-time analytics for 5+ business units.<br>
