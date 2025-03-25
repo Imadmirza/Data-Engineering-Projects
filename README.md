@@ -1,7 +1,7 @@
 # Overview
 This project demonstrates the implementation of a real-world data pipeline using Azure services to process Brazilian e-commerce data. It is divided into two phases:
 
-Part 1: Data ingestion and pipeline setup using Azure Data Factory.
+Part 1: Data ingestion and pipeline setup using Azure Data Factory.<br>
 Part 2: Data transformation, enrichment, and visualization with Azure Databricks and Synapse Analytics.
 
 The project follows Medallion Architecture (Bronze, Silver, Gold layers) to ensure data quality and efficient processing.
