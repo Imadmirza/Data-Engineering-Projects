@@ -10,11 +10,11 @@ The project follows Medallion Architecture (Bronze, Silver, Gold layers) to ensu
 
 # Below is the high-level architecture of the pipeline:
 
-1️ Data Ingestion: Extract raw data from multiple sources (GitHub, SQL, HTTP endpoints) using Azure Data Factory (ADF).<br>
-2️ Data Storage: Store raw data in Azure Data Lake Storage (ADLS Gen2) following the Medallion Architecture (Bronze, Silver, Gold).<br>
-3️ Data Processing: Transform data using Azure Databricks (batch processing, enrichment).<br>
-4️ Data Analytics: Load structured data into Azure Synapse Analytics for querying and analysis.<br>
-5️ Visualization: Generate business insights using Power BI.<br>
+1️. Data Ingestion: Extract raw data from multiple sources (GitHub, SQL, HTTP endpoints) using Azure Data Factory (ADF).<br>
+2️. Data Storage: Store raw data in Azure Data Lake Storage (ADLS Gen2) following the Medallion Architecture (Bronze, Silver, Gold).<br>
+3️. Data Processing: Transform data using Azure Databricks (batch processing, enrichment).<br>
+4️. Data Analytics: Load structured data into Azure Synapse Analytics for querying and analysis.<br>
+5️. Visualization: Generate business insights using Power BI.<br>
 
 ### Part 1: Data Ingestion Pipeline
 What I Learned & Implemented<br>
