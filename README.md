@@ -24,7 +24,7 @@ Implemented data ingestion pipelines from multiple sources (HTTP, SQL).<br>
 Managed error handling & monitoring in pipelines.<br>
 
 ### Part 2: Data Transformation & Visualization
-Advanced Implementations:
+Advanced Implementations
 Set up Azure Databricks for large-scale data processing.<br>
 Integrated MongoDB for data enrichment.<br>
 Configured Azure Synapse Analytics for query optimization.<br>
