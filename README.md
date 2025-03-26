@@ -8,7 +8,7 @@ The project follows Medallion Architecture (Bronze, Silver, Gold layers) to ensu
 
 # Architecture Diagram
 
-## Below is the high-level architecture of the pipeline:
+# Below is the high-level architecture of the pipeline:
 
 1️ Data Ingestion: Extract raw data from multiple sources (GitHub, SQL, HTTP endpoints) using Azure Data Factory (ADF).<br>
 2️ Data Storage: Store raw data in Azure Data Lake Storage (ADLS Gen2) following the Medallion Architecture (Bronze, Silver, Gold).<br>
